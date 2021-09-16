@@ -19,6 +19,6 @@ An algorithm to count the number of people in a surveillance image of a mall bas
 
 Runtime: ~ 15 minutes excluding last two cells, ~ 4 hours otherwise.
 
-Note: If due to inactivity the session prompts you to reconnect, then if you waant to run it back, you may have to run it 
-from the beginning by restarting runtime first before running all (step 4-5) as the local variables might have been lost, 
-especially if it tells you that some variables or packages are undefined after re-running some cells, etc.
+Note: If due to inactivity the session prompts you to reconnect and you want to run it back, then you may have to run it 
+from the beginning by restarting the runtime first before running (step 4-5) as the local variables might have been lost, 
+especially if it tells you that some variables or packages are undefined after re-running a cell, etc.
